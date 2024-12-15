@@ -250,9 +250,7 @@
      
     /*Services section code*/
     
-    .def{
-        display: flex;
-      }
+    
     
     .services h2{
         margin-bottom: 5rem;
@@ -265,6 +263,10 @@
         flex-wrap: wrap;
         gap: 2rem;
     }
+
+    .def{
+        display: flex;
+      }
      
     .services-container .services-box {
         flex: 1 1 30rem;
